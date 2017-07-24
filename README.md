@@ -6,11 +6,9 @@ SE JAM Python Bootcamp
 Instructions to come.
 
 ## Requirements
-Python 3
-virtualenv
-pip
-
-
+1. Python 3
+2. virtualenv
+3. pip
 
 
 ## Documentation
