@@ -1,5 +1,5 @@
 
-[![Alt text](/s/zcon8erjmlqj5ur/dsp3_logo3.png)](https://www.dropbox.com/)
+[![Alt text](/u/19596584/dsp3_logo3.jpg)](https://dl.dropboxusercontent.com//)
 
 SE JAM Python Bootcamp
 ====
