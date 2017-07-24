@@ -49,7 +49,7 @@ Installation Steps
 		<br/>
 	tools > build system > choose whatever you save your build system as.<br/>
     <br/>
-6. Update config file with AWS and DSAS information
+6. Update config file with your AWS and DSAS information
 7. You are good to go :-)
 
 
