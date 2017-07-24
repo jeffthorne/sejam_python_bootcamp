@@ -5,17 +5,17 @@ SE JAM Python Bootcamp
 
 
 ## Requirements
-git
-Python3 - This bootcamp was built and tested with Python 3.6.1
-virtualenv - not required but recommended
+1. git
+2. Python3 - This bootcamp was built and tested with Python 3.6.1
+3. virtualenv - not required but recommended
 
 
 
 Optional
 =========
-virtualenv - not required but recommended
-Sublime Text 3 - built with SublimeText 3 using the OneDark theme for syntax highlighting
-                  https://packagecontrol.io/packages/Theme%20-%20One%20Dark
+4. virtualenv - not required but recommended
+5. Sublime Text 3 - built with SublimeText 3 using the OneDark theme for syntax highlighting
+                    https://packagecontrol.io/packages/Theme%20-%20One%20Dark
 
 
 
