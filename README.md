@@ -55,15 +55,15 @@ Installation Steps
 5. Make sure your editior if using one points to the Python Interpreter in your virtualenv. 
    
    In Sublime:  
-   1. tools > build system > new build system  
+   tools > build system > new build system<br/> 
    	  {<br/> 
 		"cmd": ["put_full_path_to_your_vene_interpreter_here", "-u", "$file"],<br/>
 		"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",<br/>
 		"selector": "source.python"<br/>
 	  }<br/>
-<br/>
-	2. tools > build system > choose whatever you save your build system as.<br/>
-<br/>
+		<br/>
+	tools > build system > choose whatever you save your build system as.<br/>
+    <br/>
 6. You are good to go :-)
 
 
