@@ -55,7 +55,6 @@ Installation Steps
 5. Make sure your editior if using one points to the Python Interpreter in your virtualenv. 
    
    In Sublime:  
-   <br/>
    1. tools > build system > new build system  
    	  {<br/> 
 		"cmd": ["put_full_path_to_your_vene_interpreter_here", "-u", "$file"],<br/>
