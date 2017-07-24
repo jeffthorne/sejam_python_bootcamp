@@ -21,6 +21,7 @@ class Person:
 
 
 alice = Person("Alice", "Martin", 30)
+joe = Person("Joe", "Smith", 32)
 print(alice.first_name)
 print(alice.age)
 print(alice.__dict__)
@@ -54,4 +55,4 @@ for person in people:
 
 
 
-    
+

@@ -1,12 +1,18 @@
 'Agenda'
 
+'Why Python'
+# Histrory
+# Benefits
+# Folks Using Python
+# Books: General and InfoSec
+
 
 'A Taste of Py'
 # Py Ingredients: Variables -> Numbers, Strings, Booleans
 # Py Filling: Lists, Tuples, Dictionaries, and, sets
 # Py Crust: Control Structures [if, elif, else, while, for, functions, comprehensions]
 # Py Objects and Classes
-# Py Boxes: Modules, Packages, and Programs
+# Py Boxes: Modules, Packages
 
 
 'PY and Deep Security'
