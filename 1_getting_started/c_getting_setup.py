@@ -30,5 +30,18 @@ Installation Steps
 4. Install bootcamp required python packages with pip
    pip install -r requirements.txt 
 
-5. You are good to go :-)
+5. Make sure your editior if using one points to the Python Interpreter in your virtualenv
+   
+   In Sublime:
+
+   1. tools > build system > new build system
+   	  {
+		"cmd": ["put_full_path_to_your_vene_interpreter_here", "-u", "$file"],
+		"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+		"selector": "source.python"
+	  }
+
+	2. tools > build system > choose whatever you save your build system as.
+
+6. You are good to go :-)
 '''
