@@ -1,7 +1,5 @@
-```{r, echo=FALSE}
-url <- "https://www.dropbox.com/s/zcon8erjmlqj5ur/dsp3_logo3.png?dl=0"
-```
-<center><img src="`r url`"></center>
+
+[![Alt text](/s/zcon8erjmlqj5ur/dsp3_logo3.png)](https://www.dropbox.com/)
 
 SE JAM Python Bootcamp
 ====
