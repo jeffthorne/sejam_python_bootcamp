@@ -4,7 +4,7 @@ SE JAM Python Bootcamp
 ====
 
 
-##Requirements
+## Requirements
 git
 Python3 - This bootcamp was built and tested with Python 3.6.1
 virtualenv - not required but recommended
@@ -20,7 +20,7 @@ Sublime Text 3 - built with SublimeText 3 using the OneDark theme for syntax hig
 
 
 
-##Installation Steps
+## Installation Steps
 1. clone github repo
    git clone https://github.com/jeffthorne/sejam_python_bootcamp.git
 
