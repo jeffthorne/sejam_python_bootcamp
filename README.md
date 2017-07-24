@@ -9,6 +9,7 @@ Requirements
 1. git
 2. Python3 - This bootcamp was built and tested with Python 3.6.1
 3. virtualenv - not required but recommended
+4. DSaS account
 
 
 

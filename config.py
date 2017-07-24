@@ -1,0 +1,11 @@
+ACCESS_KEY = ''
+SECRET_ACCESS_KEY = ''
+EXTERNAL_ID = ''
+ARN = 'arn:aws:iam::50738523455051:role/sample'
+
+DSAS_USER = ''
+DSAS_TENANT = ""
+DSAS_PASSWORD = ""
+
+
+
