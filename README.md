@@ -1,5 +1,4 @@
-
-[![Alt text](/u/19596584/dsp3_logo3.jpg)](https://dl.dropboxusercontent.com//)
+![Alt text](https://dl.dropboxusercontent.com/u/19596584/dsp3_logo3.jpg "Optional title")
 
 SE JAM Python Bootcamp
 ====
