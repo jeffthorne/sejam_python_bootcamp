@@ -1,4 +1,7 @@
-![alt tag](/docs/source/_static/dsp3_logo3.png?raw=true "DSP3")
+```{r, echo=FALSE}
+url <- "https://www.dropbox.com/s/zcon8erjmlqj5ur/dsp3_logo3.png?dl=0"
+```
+<center><img src="`r url`"></center>
 
 SE JAM Python Bootcamp
 ====
