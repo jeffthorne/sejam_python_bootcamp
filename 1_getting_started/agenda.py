@@ -17,7 +17,7 @@
 
 'PY and Deep Security'
 # DSP3 Overview
-# Simple API USE CASE 1 -> NASDAQ
+# Simple API USE CASE 1 -> Add 300 AWS accounts in DS
 # Secure Dev Pipeline [less GUI == more demo] -> Ansible, Docker, Github, App Control
 # DSP3 -> AWS Config and Lambda
 # DSP3 Alexa Integration
