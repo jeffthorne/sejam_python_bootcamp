@@ -18,7 +18,8 @@ Requirements
                     https://packagecontrol.io/packages/Theme%20-%20One%20Dark
 
 
-
+## Note: For those who have trouble getting this installed
+An Ubuntu VirtualBox VM will be provided with everything set up.
 
 
 Installation Steps

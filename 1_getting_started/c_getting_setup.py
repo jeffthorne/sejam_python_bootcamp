@@ -46,4 +46,8 @@ Installation Steps
 6. Update config file with your AWS and DSAS information
 
 7. You are good to go :-)
+
+
+## Note: For those who have trouble getting this installed
+An Ubuntu VirtualBox VM will be provided with everything set up.
 '''
