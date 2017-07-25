@@ -10,8 +10,10 @@ DSaS account
 Optional
 =========
 virtualenv - not required but recommended
-Sublime Text 3 - built with SublimeText 3 using the OneDark theme for syntax highlighting
-                  https://packagecontrol.io/packages/Theme%20-%20One%20Dark
+Any Editor: Pycharm, Atom, VS Code Sublime Text, etc<br/>
+Note: this bootcamp was built with SublimeText 3 using the OneDark
+      theme for syntax highlighting - https://packagecontrol.io/packages/Theme%20-%20One%20Dark
+
 
 
 
