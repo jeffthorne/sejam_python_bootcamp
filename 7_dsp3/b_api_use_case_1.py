@@ -4,6 +4,7 @@
 path: /rest/cloudaccounts/aws      methods=[POST]
 
 Adds a new AWS cloud account into Deep Security
+
 Input:
 AddAwsAccountRequest - AddAwsAccountRequest object describing the Amazon account.
 
@@ -68,13 +69,18 @@ from python_bootcamp import config
 from dsp3.models.manager import Manager
 
 dsm = Manager(username=config.DSAS_USER, password=config.DSAS_PASSWORD, tenant=config.DSAS_TENANT)
-#dsm.add_aws_cloud_account_with_keys('access_key', 'secret_key')
+#print(dsm.add_aws_cloud_account_with_keys('access_key', 'secret_key'))
 
 # or
+print(dsm.get_api_version())
 
+# How to set up cross account role - https://help.deepsecurity.trendmicro.com/Add-Computers/add-aws.html
 print( dsm.add_aws_cloud_account_with_cross_account_role(config.EXTERNAL_ID, config.ARN)) 
-dsm.end_session()
 # View DSPS Implentation -> https://github.com/jeffthorne/DSP3/blob/master/dsp3/utilities/cloudacct_utils.py
+
+
+dsm.end_session()			# don' forget to end sessions. They can run out!
+
 
 
 

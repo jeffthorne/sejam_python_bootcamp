@@ -5,7 +5,6 @@ Requirements
 --------------------------------------
 git
 Python3 - This bootcamp was built and tested with Python 3.6.1
-virtualenv - not required but recommended
 DSaS account
 
 Optional

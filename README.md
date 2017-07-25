@@ -14,7 +14,6 @@ Requirements
 
 
 ## Optional
-4. virtualenv - not required but recommended
 5. Sublime Text 3 - built with SublimeText 3 using the OneDark theme for syntax highlighting
                     https://packagecontrol.io/packages/Theme%20-%20One%20Dark
 
