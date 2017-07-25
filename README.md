@@ -51,7 +51,8 @@ Installation Steps - Mac/Linux
 	tools > build system > choose whatever you save your build system as.<br/>
     <br/>
 6. Update config file with your AWS and DSAS information
-7. You are good to go :-)
+7. To get the examples in chpt7 working please enter required info in config.py file.
+8. You are good to go :-)
 
 
 
