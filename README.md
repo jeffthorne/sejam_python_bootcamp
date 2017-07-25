@@ -24,6 +24,12 @@ An Ubuntu VirtualBox VM will be provided with everything set up.<br/>
 A download link will be provided shortly.
 
 
+Windows Python3 and virtualenv installation instructions
+---------------------------------------------------------------------------------
+Not completed at this time.
+
+
+
 Bootcamp Installation Steps [assumes git, python, and virtualenv installed - Mac/Linux
 ---------------------------------------------------------------------------------
 
