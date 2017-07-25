@@ -30,7 +30,7 @@ Not completed at this time.
 
 
 
-Bootcamp Installation Steps [assumes git, python, and virtualenv installed - Mac/Linux
+Bootcamp Install Steps [assumes git, python, and virtualenv installed - Mac/Linux
 ---------------------------------------------------------------------------------
 
 1. clone github repo. 
