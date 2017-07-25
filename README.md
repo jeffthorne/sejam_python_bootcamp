@@ -45,13 +45,13 @@ Bootcamp Install Steps [assumes git, python, and virtualenv installed - Mac/Linu
 4. Install bootcamp required python packages with pip. 
    pip install -r requirements.txt 
 
-5. Make sure your editior if using one points to the Python Interpreter in your virtualenv
+5. Optional but reccomended: Make sure your editior if using one points to the Python Interpreter in your virtualenv
    if you editor supports and you want to execute files from editor: 
    
-   In Sublime:  
+   If using Sublime:  
    tools > build system > new build system<br/> 
    	  {<br/> 
-		"cmd": ["put_full_path_to_your_vene_interpreter_here", "-u", "$file"],<br/>
+		"cmd": ["put_full_path_to_your_virtualenv_python_interpreter_here", "-u", "$file"],<br/>
 		"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",<br/>
 		"selector": "source.python"<br/>
 	  }<br/>
