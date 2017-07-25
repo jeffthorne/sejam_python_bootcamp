@@ -1,7 +1,7 @@
 ACCESS_KEY = ''
 SECRET_ACCESS_KEY = ''
 EXTERNAL_ID = ''
-ARN = 'arn:aws:iam::508765280031:role/sample'
+ARN = 'arn:aws:iam::6707380051:role/sample'
 
 DSAS_USER = ''
 DSAS_TENANT = ''
