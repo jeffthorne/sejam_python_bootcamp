@@ -17,8 +17,8 @@ Note: this bootcamp was built with SublimeText 3 using the OneDark
 
 
 
-Installation Steps - Mac/Linux
---------------------------------------
+Bootcamp Installation Steps [assumes git, python, and virtualenv installed - Mac/Linux
+---------------------------------------------------------------------------------
 
 1. clone github repo
    git clone https://github.com/jeffthorne/sejam_python_bootcamp.git
@@ -51,7 +51,7 @@ Installation Steps - Mac/Linux
 
 8. You are good to go :-)
 
-##Note if you are on a MAC Xcode and Xcode command line tools will need to be installed.
+
 
 ## Note: For those who have trouble getting this installed
 An Ubuntu VirtualBox VM will be provided with everything set up.
