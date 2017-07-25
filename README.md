@@ -55,6 +55,8 @@ Installation Steps - Mac/Linux
 7. To get the examples in chpt7 working please enter required info in config.py file.
 8. You are good to go :-)
 
+* Note if you are on a MAC Xcode and Xcode command line tools will need to be installed.
+
 
 
 Documentation
