@@ -15,7 +15,7 @@ Sublime Text 3 - built with SublimeText 3 using the OneDark theme for syntax hig
 
 
 
-Installation Steps
+Installation Steps - Mac/Linux
 --------------------------------------
 
 1. clone github repo

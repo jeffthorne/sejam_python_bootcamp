@@ -23,7 +23,7 @@ An Ubuntu VirtualBox VM will be provided with everything set up.<br/>
 A download link will be provided shortly.
 
 
-Installation Steps
+Installation Steps - Mac/Linux
 --------------------------------------
 
 1. clone github repo. 
