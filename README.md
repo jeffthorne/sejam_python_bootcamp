@@ -24,8 +24,7 @@ An Ubuntu VirtualBox VM will be provided with everything set up.<br/>
 A download link will be provided shortly.<br/><br/>
 
 
-<b>Windows Python3 and virtualenv installation instructions</b>
----------------------------------------------------------------------------------
+<b>Windows Python3 and virtualenv installation instructions</b><br/>
 Not completed at this time.
 
 
