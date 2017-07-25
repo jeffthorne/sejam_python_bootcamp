@@ -50,4 +50,5 @@ Installation Steps
 
 ## Note: For those who have trouble getting this installed
 An Ubuntu VirtualBox VM will be provided with everything set up.
+A download link will be provided shortly.
 '''
