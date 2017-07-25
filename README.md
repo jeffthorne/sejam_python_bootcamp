@@ -21,10 +21,10 @@ Requirements
 
 <b>Note: For those who have trouble getting this installed</b><br/>
 An Ubuntu VirtualBox VM will be provided with everything set up.<br/>
-A download link will be provided shortly.
+A download link will be provided shortly.<br/><br/>
 
 
-Windows Python3 and virtualenv installation instructions
+<b>Windows Python3 and virtualenv installation instructions</b>
 ---------------------------------------------------------------------------------
 Not completed at this time.
 
