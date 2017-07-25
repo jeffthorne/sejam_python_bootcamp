@@ -13,7 +13,7 @@ Requirements
 
 
 
-## Optional
+<b>Optional</b><br/>
 5. Any Editor: Pycharm, Atom, VS Code Sublime Text, etc<br/>
    Note: this bootcamp was built with SublimeText 3 using the OneDark<br/>
    theme for syntax highlighting - https://packagecontrol.io/packages/Theme%20-%20One%20Dark
