@@ -6,17 +6,17 @@ SE JAM Python Bootcamp
 
 Requirements
 =========
-1. git
-2. Python3 - This bootcamp was built and tested with Python 3.6.1
-3. virtualenv - not required but recommended
-4. DSaS account
+* git<br/>
+* Python3 - This bootcamp was built and tested with Python 3.6.1<br/>
+* virtualenv - not required but recommended<br/>
+* DSaS account<br/>
 
 
 
 <b>Optional</b><br/>
-5. Any Editor: Pycharm, Atom, VS Code Sublime Text, etc<br/><br/>
-   Note: this bootcamp was built with SublimeText 3 using the OneDark<br/>
-   theme for syntax highlighting - https://packagecontrol.io/packages/Theme%20-%20One%20Dark<br/><br/>
+Any Editor: Pycharm, Atom, VS Code Sublime Text, etc<br/><br/>
+Note: this bootcamp was built with SublimeText 3 using the OneDark<br/>
+theme for syntax highlighting - https://packagecontrol.io/packages/Theme%20-%20One%20Dark<br/><br/>
 
 
 <b>For those who have trouble getting this installed</b><br/>
