@@ -19,7 +19,7 @@ Requirements
    theme for syntax highlighting - https://packagecontrol.io/packages/Theme%20-%20One%20Dark
 
 
-## Note: For those who have trouble getting this installed
+<b>Note: For those who have trouble getting this installed</b><br/>
 An Ubuntu VirtualBox VM will be provided with everything set up.<br/>
 A download link will be provided shortly.
 
