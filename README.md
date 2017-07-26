@@ -4,6 +4,11 @@ SE JAM Python Bootcamp
 ====
 
 
+Agenda
+======
+https://github.com/jeffthorne/sejam_python_bootcamp/blob/master/1_getting_started/agenda.py
+
+
 Requirements
 =========
 * git<br/>
