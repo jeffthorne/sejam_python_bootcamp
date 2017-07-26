@@ -6,3 +6,5 @@ ARN = 'arn:aws:iam::6707380051:role/sample'
 DSAS_USER = ''
 DSAS_TENANT = ''
 DSAS_PASSWORD = ''
+
+DESTINATION_IP = ''

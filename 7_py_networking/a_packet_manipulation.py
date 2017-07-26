@@ -26,7 +26,7 @@ send(IP(dst=dst, ttl=128)/ICMP()/"HelloWorld")
 sr1(IP(dst=dst)/TCP(dport=22))
 
 # SYN Scan - Simple port scanner
-answered, unanswered = sr(IP(dst=dst)/TCP(sport=666,dport=list(range(20,50)), flags='S'))
+answered, unanswered = sr(IP(dst=dst)/TCP(sport=666,dport=[22,8080,4118], flags='S'))
 
 print('-----------------------------------------------------------------------------------------------------------------')
 answered.summary()
