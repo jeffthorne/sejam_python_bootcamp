@@ -3,12 +3,19 @@
 # Dummies Guide to Scapy
 # https://theitgeekchronicles.files.wordpress.com/2012/05/scapyguide1.pdf
 
-from scapy.all import *
+
 # On Mac brew install libdnet
 # brew install libpcap
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+from python_bootcamp import config
 
 
-dst = '34.207.103.140'
+
+from scapy.all import *
+
+dst = config.DESTINATION_IP
 
 # fire up wireshark
 #create and send single ICMP Packet
@@ -19,7 +26,7 @@ send(IP(dst=dst, ttl=128)/ICMP()/"HelloWorld")
 sr1(IP(dst=dst)/TCP(dport=22))
 
 # SYN Scan - Simple port scanner
-answered, unanswered = sr(IP(dst=dst)/TCP(sport=666,dport= list(range(20,50)), flags='S'))
+answered, unanswered = sr(IP(dst=dst)/TCP(sport=666,dport=list(range(20,50)), flags='S'))
 
 print('-----------------------------------------------------------------------------------------------------------------')
 answered.summary()
