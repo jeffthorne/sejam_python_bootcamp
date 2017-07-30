@@ -35,5 +35,5 @@ len(ds_elevator_pitch)  						#gets the length of a string in characters
 
 
 sales_engineers = 'mondeux, colin, fernando, john, kaz, Anthony'
-print(sales_engineers.split(',')).   		# rsplit a string with split -> eturns a list ['mondeux', ' colin', ' fernando', ' john', ' kaz', ' Anthony']
+print(sales_engineers.split(','))  		# rsplit a string with split -> eturns a list ['mondeux', ' colin', ' fernando', ' john', ' kaz', ' Anthony']
 

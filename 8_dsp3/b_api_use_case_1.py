@@ -64,7 +64,7 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 
-from python_bootcamp import config
+from sejam_python_bootcamp import config
 
 from dsp3.models.manager import Manager
 

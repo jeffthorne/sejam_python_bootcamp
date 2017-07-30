@@ -8,11 +8,9 @@
 # brew install libpcap
 import sys
 import os
+
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
-from python_bootcamp import config
-
-
-
+from sejam_python_bootcamp import config
 from scapy.all import *
 
 dst = config.DESTINATION_IP
