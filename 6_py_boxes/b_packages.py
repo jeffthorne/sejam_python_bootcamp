@@ -13,6 +13,7 @@ Use these when you want to have separate features in your app/software
 from app.models.person import Person
 
 alice = Person("Alice", "Martin", 30)
+print(type(alice))
 print(alice.first_name)
 
 

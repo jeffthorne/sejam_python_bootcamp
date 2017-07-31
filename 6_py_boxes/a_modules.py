@@ -9,7 +9,7 @@ Use modules when you have small functions and programs that span across some fil
 
 # module is the name of another Python file, without the .py extension
 from models.person import Person    				
-#This does not introduce the module name from which the imports are taken in the local symbol table HINT:packages
+
 
 alice = Person("Alice", "Martin", 30)
 print(type(alice))
@@ -42,4 +42,3 @@ for place in sys.path:
 	print(place)
 
 
-print(__name__)
