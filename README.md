@@ -55,11 +55,11 @@ Bootcamp Install Steps [assumes git, python, and virtualenv installed - Mac/Linu
    
    If using Sublime:  
    tools > build system > new build system<br/> 
-   	  {<br/> 
-		"cmd": ["put_full_path_to_your_virtualenv_python_interpreter_here", "-u", "$file"],<br/>
-		"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",<br/>
-		"selector": "source.python"<br/>
-	  }<br/>
+   	    {<br/>
+    "shell_cmd": "/home/vagrant/sejam_python_bootcamp/venv/bin/python -u \"$file\"",<br/>
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",<br/>
+    "selector": "source.python"<br/>
+   }<br/>
 		<br/>
 	tools > build system > choose whatever you save your build system as.<br/>
     <br/>
