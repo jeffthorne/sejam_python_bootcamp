@@ -37,11 +37,11 @@ Bootcamp Installation Steps [assumes git, python, and virtualenv installed - Mac
    In Sublime:
 
    1. tools > build system > new build system
-   	  {
-		"cmd": ["put_full_path_to_your_vene_interpreter_here", "-u", "$file"],
-		"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-		"selector": "source.python"
-	  }
+   	{
+    "shell_cmd": "/home/vagrant/sejam_python_bootcamp/venv/bin/python -u \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+     }
 
 	2. tools > build system > choose whatever you save your build system as.
 
