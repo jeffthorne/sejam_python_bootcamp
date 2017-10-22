@@ -5,8 +5,8 @@
 def say_hello():
 	print("Hello")
 
-
 say_hello()
+
 
 def say_hello(name):
 	print("Hello", name)

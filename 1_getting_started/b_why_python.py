@@ -1,9 +1,8 @@
-'Why Python'
+
 # Most commonly used language in infosec [Pentesting, packet manipulation, CI/CD]
 
 
-'History'
-'''
+'History''''
 Python was conceived in the late 1980s, and its implementation began in December 1989 by
 Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands
 '''

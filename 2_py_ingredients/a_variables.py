@@ -15,6 +15,6 @@ a = 2
 b = a
 a = 3
 
-#### print(b)   # What does b equal now?
+print(b)   # What does b equal now?
 
 

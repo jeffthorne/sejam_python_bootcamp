@@ -6,6 +6,13 @@
 
 # On Mac brew install libdnet
 # brew install libpcap
+
+
+#-------------Important ----------
+# launch subline with sudo subl . as we need admin privledges to run this.
+# run sudo wireshark from terminal to launch wireshark
+# display filter ip.addr == 'ip from your config file'
+
 import sys
 import os
 
